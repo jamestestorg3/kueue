@@ -1,3 +1,4 @@
+#!/bin/bash
 git checkout main
 echo "james" > james.txt
 git add james.txt

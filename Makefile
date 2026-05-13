@@ -1,4 +1,4 @@
 
 
 sync-hugo-version:
-  ./james.sh
+	./james.sh
