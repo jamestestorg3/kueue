@@ -1,4 +1,5 @@
 #!/bin/bash
+git fetch origin main
 git switch main
 echo "james" > james.txt
 git add james.txt
