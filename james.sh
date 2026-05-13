@@ -1,5 +1,5 @@
 #!/bin/bash
-git checkout main
+git switch main
 echo "james" > james.txt
 git add james.txt
 git config user.name "github-actions[bot]"
